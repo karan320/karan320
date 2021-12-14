@@ -1,7 +1,7 @@
 <h1 align = "Center" >Hello There 👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan320" alt="karan320"  /> </p>
 
-I am a Computer Science Student, currently in final year student at SSIPMT, Raipur 📚
+I am a Computer Science Student, currently in final year at SSIPMT, Raipur 📚
 
 - 🔭 I’m currently working on Javascript Projects
 - 🌱 I’m currently learning Data Structure and Algorithm
