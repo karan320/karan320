@@ -6,7 +6,7 @@ Software Developer
 
 I am a Computer Science Student, currently in final year at SSIPMT, Raipur 📚
 
-*   🖥️  See my portfolio at [karansiddhu.tech](http://www.karansiddhu.tech)
+*   🖥️  See my portfolio at [karansiddhu.tech](http://www.karansiddhu.info)
 *   ✉️  You can contact me at [karansiddhu22@gmail.com](mailto:karansiddhu22@gmail.com)
 *   🧠  I'm learning DSA
 
