@@ -33,6 +33,11 @@ I am a Computer Science Student, currently in final year at SSIPMT, Raipur 📚
 
 <b>My GitHub Stats</b>
 
+<a href="https://github.com/karan320">
 <img src="https://github-readme-stats.vercel.app/api?username=karan320&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="karan320's GitHub stats" />
-
+</a>
+  
+<a href="https://github.com/karan320">
 <img src="https://github-readme-streak-stats.herokuapp.com/?%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20user=karan320&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_b%20order=true"/>
+</a>
+
